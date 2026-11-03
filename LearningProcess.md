@@ -19,7 +19,7 @@
 
 ---
 
-4. **According to the video, what are the steps to take when approaching a new topic? Only mention the points.**
+4. **According to the video, what are the steps to take when approaching a new topic?**
 
    - Break the skill down into smaller sub-skills.
    - Learn just enough to practice and correct your own mistakes.
